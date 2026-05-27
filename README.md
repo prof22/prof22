@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=OkohEmmanuel&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/OkohEmmanuel)
 [![Years Badge](https://img.shields.io/badge/Experience-8%2B%20Years-brightgreen?style=flat)](https://github.com/OkohEmmanuel)
-[![Apps](https://img.shields.io/badge/Live%20Apps-13%2B%20Published-blue?style=flat)](https://github.com/OkohEmmanuel)
+[![Apps](https://img.shields.io/badge/Live%20Apps-12%2B%20Published-blue?style=flat)](https://github.com/OkohEmmanuel)
 [![Open Source](https://img.shields.io/badge/pub.dev-99%25%20Popularity-orange?style=flat)](https://pub.dev/packages/country_state_city_picker)
 
 [📧 Email](mailto:okoh.emmanuel.dev@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/okohemmanuel) · [🌐 Portfolio](https://emmanuelokoh.netlify.app) · [📦 pub.dev](https://pub.dev/publishers/okoh.dev/packages)
@@ -21,11 +21,11 @@
 
 I build mobile apps and backend systems that handle real money, real patients, and real users at scale.
 
-Over 8 years I have shipped production systems across **Fintech**, **HealthTech**, **EdTech**, **Hospitality**, and **Oil & Gas** — from a soccer betting platform handling thousands of concurrent users on match day, to a hotel booking system live at [applepointapartmentandhotel.com](https://applepointapartmentandhotel.com), to a nursing simulation platform used by internationally trained nurses entering the Canadian healthcare system.
+Over 8 years I have shipped production systems across **Fintech**, **HealthTech**, **EdTech**, **Hospitality**, and **Oil & Gas** — from a soccer betting platform handling thousands of concurrent users on match day, to a hotel booking system live at [applepointapartmentandhotel.com](https://applepointapartmentandhotel.com), to an EdTech platform serving schools, students, and alumni across Nigeria.
 
 - 🚀 **13+ apps** published on Google Play Store and Apple App Store
 - 📦 **Open-source maintainer** — [country_state_city_picker](https://pub.dev/packages/country_state_city_picker) (140+ likes, 99% popularity on pub.dev)
-- 👨‍💼 Former **CTO** at DafeSoftware — led a team of 8+ engineers
+- 👨‍💼 Former **CTO** at Global Star Tech — led a team of 8+ engineers
 - 🌍 Available for **remote full-time roles**, contracts, and freelance internationally
 - 💳 Payment integrations: **Paystack · Flutterwave · Remita · Stripe**
 
@@ -137,14 +137,6 @@ School communication and career networking platform — school updates, digital 
 
 ---
 
-### 🏥 Nurse Ready — AI Nursing Simulation Platform (Canada)
-> **Stack:** Flutter · Laravel · Node.js · REST API  
-> **App Store:** [iOS](https://apps.apple.com/app/nurse-ready/id6447067054)
-
-AI-driven simulation platform helping internationally trained nurses transition into the Canadian healthcare system. Privacy-compliant backend meeting Canadian data regulations, integrated Canadian healthcare data feeds, adaptive scenario-based training flow.
-
----
-
 ### ⚽ FollowMeBet — Real-Time Soccer Betting Platform
 > **Stack:** Flutter · Java Spring Boot · Redis Pub/Sub · Flutterwave · Paystack  
 > **App Store:** [iOS](https://apps.apple.com/app/followmebet/id6444085742) · Android APK available
@@ -183,6 +175,98 @@ On-device AI-powered OCR app — image-to-text conversion, PDF text extraction, 
 
 Two Flutter apps (User and Driver) with a Laravel + PostgreSQL backend. Geolocation-aware driver matching, automated KYC verification — reduced onboarding drop-off by 40%.
 
+### 👶 MyPikin — Childcare & Immunization Tracker
+> **Stack:** Flutter · Laravel · PostgreSQL · AES-256 Encryption  
+> **Play Store:** [Google Play](https://play.google.com/store/apps/details?id=com.mypikin.app)
+
+HealthTech app for tracking child milestones, immunization schedules, and health records. AES-256 encryption at rest and in transit, RBAC for healthcare staff and parent roles, GDPR-aligned data retention, and offline-first sync designed for low-bandwidth Nigerian mobile networks.
+
+---
+
+### 👕 BSC Laundry — On-Demand Laundry Service
+> **Stack:** Flutter · REST API  
+> **Play Store:** [Google Play](https://play.google.com/store/apps/details?id=com.dafesoftware.bscLaundry)
+
+On-demand laundry pickup and delivery app — service selection (wash, dry, ironing), free collection booking, real-time order tracking, and scheduling workflows.
+
+---
+
+### 🕊️ Sacred Anglican Hymnal
+> **Stack:** Flutter · SQLite · Local data  
+> **Play Store:** [Google Play](https://play.google.com/store/apps/details?id=com.sacred.anglican.hymnal)
+
+Digital Anglican hymnal and Book of Common Prayer reference app for Nigeria. Offline access to the full hymn catalogue and liturgical texts — no internet connection required.
+
+---
+
+### 📜 GCUOBA 2000 Constitution
+> **Stack:** Flutter · SQLite  
+> **Play Store:** [Google Play](https://play.google.com/store/apps/details?id=com.gcu200constitution.app)
+
+Digital constitution reference app for the GCUOBA year 2000 alumni association. Searchable, fully offline constitutional document in a clean mobile reader.
+
+---
+
+### 🛢️ Gevente Nigeria — Oil & Gas Corporate Platform
+> **Stack:** Laravel · React · PostgreSQL  
+> **Live:** [gevente.com](https://gevente.com)
+
+Corporate web platform for an indigenous Oil & Gas engineering and procurement company (ESAB partner, est. 1990). Laravel CMS backend with service catalogue APIs, procurement enquiry pipeline, lead capture workflows, and a secure admin dashboard.
+
+---
+
+### 🛢️ Chrezoda Integrated Services
+> **Stack:** Laravel · React · PostgreSQL  
+> **Live:** [chrezoda.com.ng](https://chrezoda.com.ng)
+
+Corporate web platform for a Port Harcourt-based Oil & Gas instrumentation and procurement services company. Dynamic service listings, contact management, lead capture, and admin CMS.
+
+---
+
+### 🌐 NAO Nigeria
+> **Stack:** Laravel · React  
+> **Live:** [nao.com.ng](https://nao.com.ng)
+
+Corporate web backend and frontend for NAO Nigeria — content management APIs, dynamic page rendering endpoints, and role-based admin controls.
+
+---
+
+### 🏛️ Lighthouse Polytechnic — Institutional Website
+> **Stack:** Laravel · React  
+> **Live:** [lighthousepolytechnic.edu.ng](https://lighthousepolytechnic.edu.ng)
+
+Institutional academic website for Lighthouse Polytechnic — academic programme listings, admissions CMS, news management, and a role-based admin panel.
+
+---
+
+## Repository Descriptions
+> Copy these into each repo's **About** field on GitHub (the ⚙️ gear icon on your repo page)
+
+| Repository | Description |
+|---|---|
+| `country_state_city_picker` | Flutter package for country, state & city selection · 140+ likes · 99% pub.dev popularity · used by thousands of developers globally |
+| `flutter_package_renamer` | Dart CLI tool to automate Flutter project rebranding across Android & iOS manifests · white-labelling & package migration |
+| `cusecho` | Escrow-protected Swap & Sell marketplace · Flutter · Node.js · FastAPI · AWS Serverless · OpenAI chatbot · Paystack · Stripe · 10K+ downloads |
+| `rentleey-landlord` | Property management SaaS — landlord app · Flutter · Laravel · PostgreSQL · Paystack · multi-tenant RBAC · Android & iOS |
+| `rentleey-tenant` | Property management SaaS — tenant app · Flutter · Laravel · Paystack · BLoC · offline-first sync |
+| `apple-point-hotel` | Full hotel management system · Flutter · Laravel · PostgreSQL · Paystack online & offline payments · atomic booking engine |
+| `memoirs` | EdTech school communication platform · Flutter · Node.js · MongoDB · AWS Serverless · WebSockets · 70% engagement uplift |
+| `followmebet` | High-traffic soccer betting platform · Java Spring Boot · Redis Pub/Sub odds pipeline · Flutterwave · Paystack · iOS & Android |
+| `unizik-hostel` | Institutional hostel management for UNIZIK · Laravel · MySQL · Paystack · Remita · automated room allocation · 100% data integrity |
+| `9jaedugames` | Nigerian IQ & general knowledge educational game · Flutter · Firebase Realtime DB · Paystack · 1K+ downloads · 3.9★ |
+| `instantocr-ai` | AI document scanner · Flutter · TensorFlow Lite · ML Kit OCR · offline inference · PDF extraction · AI summarisation · multilingual translation |
+| `mypikin` | Childcare & immunization tracker · Flutter · Laravel · AES-256 encryption · GDPR · offline-first · HealthTech |
+| `inaaga-user` | Ride-hailing user app · Flutter · Laravel · PostgreSQL · geolocation matching · automated KYC · 40% onboarding improvement |
+| `inaaga-driver` | Ride-hailing driver app · Flutter · Laravel · real-time geolocation · KYC verification |
+| `bsc-laundry` | On-demand laundry pickup & delivery app · Flutter · order tracking · scheduling workflows |
+| `sacred-anglican-hymnal` | Digital Anglican hymnal & Book of Common Prayer · Flutter · SQLite · fully offline |
+| `gcuoba-constitution` | Digital constitution reference app for GCUOBA 2000 alumni · Flutter · SQLite · offline |
+| `gevente-ng` | Oil & Gas corporate web platform · Laravel · React · CMS · procurement enquiry pipeline · gevente.com |
+| `chrezoda` | Oil & Gas instrumentation & procurement corporate site · Laravel · React · chrezoda.com.ng |
+| `nao-nigeria` | Corporate web platform · Laravel · React · CMS · nao.com.ng |
+| `lighthouse-polytechnic` | Institutional academic website · Laravel · React · admissions CMS · lighthousepolytechnic.edu.ng |
+| `deep-learning-cybersecurity` | Deep learning cybersecurity suite · Python · TensorFlow · FastAPI · Celery · Redis · real-time anomaly detection · sub-100ms inference |
+
 ---
 
 ## GitHub Stats
@@ -212,7 +296,7 @@ Two Flutter apps (User and Driver) with a Laravel + PostgreSQL backend. Geolocat
 | **Payments** | Paystack · Flutterwave · Remita · Stripe |
 | **Architecture** | Microservices · Event-Driven · CQRS · Clean Architecture |
 | **Open Source** | pub.dev maintainer · 140+ likes · 99% popularity |
-| **Leadership** | CTO at DafeSoftware · led 8+ engineers · GDG mentor |
+| **Leadership** | CTO at Global Star Tech · led 8+ engineers · GDG mentor |
 
 ---
 
