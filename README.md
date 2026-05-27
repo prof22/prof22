@@ -6,9 +6,9 @@
 
 **Flutter · Java Spring Boot · Python · Laravel · Node.js · AWS**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=OkohEmmanuel&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/OkohEmmanuel)
-[![Years Badge](https://img.shields.io/badge/Experience-8%2B%20Years-brightgreen?style=flat)](https://github.com/OkohEmmanuel)
-[![Apps](https://img.shields.io/badge/Live%20Apps-12%2B%20Published-blue?style=flat)](https://github.com/OkohEmmanuel)
+[![Profile Views](https://komarev.com/ghpvc/?username=OkohEmmanuel&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/prof22)
+[![Years Badge](https://img.shields.io/badge/Experience-8%2B%20Years-brightgreen?style=flat)](https://github.com/prof22)
+[![Apps](https://img.shields.io/badge/Live%20Apps-12%2B%20Published-blue?style=flat)](https://github.com/prof22)
 [![Open Source](https://img.shields.io/badge/pub.dev-99%25%20Popularity-orange?style=flat)](https://pub.dev/packages/country_state_city_picker)
 
 [📧 Email](mailto:okoh.emmanuel.dev@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/okohemmanuel) · [🌐 Portfolio](https://emmanuelokoh.netlify.app) · [📦 pub.dev](https://pub.dev/publishers/okoh.dev/packages)
